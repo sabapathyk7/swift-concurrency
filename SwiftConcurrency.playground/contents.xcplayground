@@ -4,9 +4,28 @@
         <page name='Thread'/>
         <page name='GCD'/>
         <page name='OperationQueues'/>
-        <page name='Actor'/>
+        <page name='Combine'/>
+        <page name='AsyncAwait'/>
         <page name='Tasks'/>
         <page name='StructuredConcurrency'/>
         <page name='Actors'/>
+        <page name='Sendable'/>
+        <page name='SwiftEvolution'/>
+        <page name='MinimalConcurrencyCheck'/>
+        <page name='TargetedConcurrencyCheck'/>
+        <page name='CompleteConcurrencyCheck'/>
+        <page name='RoughSketch'/>
+        <page name='SE0414'/>
+        <page name='SE0417'/>
+        <page name='SE0418'/>
+        <page name='SE0420'/>
+        <page name='SE0423'/>
+        <page name='SE0430'/>
+        <page name='SE0434'/>
+        <page name='SE0431 '/>
+        <page name='SE-0411'/>
+        <page name='ClassActors'/>
+        <page name='noneisolation'/>
+        <page name='staticisolation'/>
     </pages>
 </playground>
