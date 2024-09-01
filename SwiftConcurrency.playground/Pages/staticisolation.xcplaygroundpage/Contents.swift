@@ -97,7 +97,7 @@ actor Account {
         return balance
     }
 }
-
+/*
 // preconditionIsolated
 actor MyActor {
     var value: Int = 0
@@ -106,3 +106,4 @@ actor MyActor {
         value += 1
     }
 }
+*/
